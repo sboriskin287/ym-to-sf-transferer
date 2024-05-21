@@ -1,1 +1,1 @@
-date > /file.txt
+cat /file1.txt > /file.txt
