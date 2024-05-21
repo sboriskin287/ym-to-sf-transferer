@@ -1,1 +1,1 @@
-cat /file2.txt > /file.txt
+cat /file1.txt > /file.txt
